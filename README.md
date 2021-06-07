@@ -11,7 +11,7 @@
 </head>
 
 <body>
-
+https://static1.freebitco.in/banners
 Сюда вставляем коды баннеров
 
 </body>
